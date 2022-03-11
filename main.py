@@ -1,7 +1,7 @@
 import os
 from os.path import join, dirname
 
-import discord
+# import discord
 from discord.ext import commands
 
 dotenv_path = join(dirname(__file__), '.env')
