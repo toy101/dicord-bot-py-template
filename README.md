@@ -1,1 +1,1 @@
-# dicord-bot-py-template
+# discord-bot-py-template
